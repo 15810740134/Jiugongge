@@ -1,0 +1,35 @@
+
+
+html,body{
+  margin: 0;
+  height: 100%;
+    
+}
+
+#nine_big{
+    margin: 0 auto;
+    text-align: center;
+    box-sizing: border-box; 
+    width: 100%;
+    height: 0;
+    padding-bottom:100%; 
+    font-size: 0;
+
+}
+.nine_small{
+    box-sizing: border-box;
+    height: 0;
+    display: inline-block;
+    width: 30%;
+    padding-bottom: 30%;
+    background: yellow;
+    border-radius: 10px;
+    margin: 1%;
+
+}
+
+
+
+
+
+
